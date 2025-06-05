@@ -109,5 +109,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Author
 
-Developed by [ArviS](https://github.com/ArviiSoft)  
+Developed by [ArviS](https://discord.gg/uzPUNrrhH2)  
 Feel free to contribute or suggest improvements!
