@@ -44,9 +44,9 @@ A lightweight, script-based email checker written in Python. This utility allows
 
 | Package     | Description                  |
 |-------------|------------------------------|
-| `requests`  | For handling HTTP requests   |
-| `colorama`  | For colored terminal output  |
-| `pystyle`   | For styled terminal text     |
+| `dnspython`  | For DNS   |
+| `python-whois` | For WHOIS  |
+
 
 > All dependencies are listed in `requirements.txt`.
 
