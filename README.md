@@ -1,4 +1,4 @@
-# 📬 Mail Checker
+# 📬 ArviS Mail Checker
 
 A lightweight, script-based email checker written in Python. This utility allows you to verify and process email data from a file or service. Ideal for small-scale verification tasks or automation scenarios.
 
@@ -18,7 +18,7 @@ A lightweight, script-based email checker written in Python. This utility allows
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/mail-checker.git
+   git clone https://github.com/ArviiSoft/mail-checker.git
    cd mail-checker
    ```
 
@@ -109,5 +109,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Author
 
-Developed by [Your Name](https://github.com/yourusername)  
+Developed by [ArviS](https://github.com/ArviiSoft)  
 Feel free to contribute or suggest improvements!
