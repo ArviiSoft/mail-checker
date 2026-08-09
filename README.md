@@ -1,4 +1,4 @@
-# 📬 ArviS Mail Checker
+# 📬 Mail Checker
 
 A lightweight, script-based email checker written in Python. This utility allows you to verify and process email data from a file or service. Ideal for small-scale verification tasks or automation scenarios.
 
