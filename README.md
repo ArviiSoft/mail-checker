@@ -15,20 +15,20 @@ A lightweight, script-based email checker written in Python. This utility allows
 
 ## 🛠️ Installation
 
-1. **Clone the repository**:
+1. **Clone the repository**
 
    ```bash
    git clone https://github.com/ArviiSoft/mail-checker.git
    cd mail-checker
    ```
 
-2. **Install dependencies**:
+2. **Install dependencies**
 
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Run the script**:
+3. **Run the script**
 
    - On Windows:  
      Double-click `başlat.bat`
@@ -89,15 +89,6 @@ Depending on the implementation in `main.py`, this script will:
 ```
 
 ---
-
-## 📂 File Structure
-
-```
-Mail Checker/
-├── başlat.bat
-├── main.py
-└── requirements.txt
-```
 
 ---
 
